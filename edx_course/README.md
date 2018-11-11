@@ -3,6 +3,7 @@ All the files used to pass the course on [Link](https://www.edx.org/course/intro
 
 The folder is organized in a folder-chapter fashion
 
-| Subfolder  | Description                                           |
-| ---------- | ------------------------------------------------------|
-| CH-09      | Create a deployment and a service with type node_port |
+| Subfolder  | Description                                           		 |
+| ---------- | ------------------------------------------------------------------|
+| CH-09      | Create a deployment and a service with type node_port 		 |
+| CH-11      | Create a multi tier application with a MongoDB and Python web App |
