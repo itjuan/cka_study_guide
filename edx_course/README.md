@@ -7,3 +7,4 @@ The folder is organized in a folder-chapter fashion
 | ---------- | ------------------------------------------------------------------|
 | CH-09      | Create a deployment and a service with type node_port 		 |
 | CH-11      | Create a multi tier application with a MongoDB and Python web App |
+| CH-12      | Create a ConfigMap						 |
